@@ -109,6 +109,7 @@ function App() {
               <option value="" disabled>
                 Select Country
               </option>
+              <option value="bangladesh">Bangladesh</option>
               <option value="australia">Australia</option>
               <option value="canada">Canada</option>
               <option value="usa">USA</option>
